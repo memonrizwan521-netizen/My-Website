@@ -121,7 +121,7 @@ const contactForm = document.getElementById("contactForm");
 const formStatus = document.getElementById("formStatus");
 
 // ==========================================
-// NEXORA CONTACT FORM
+// bright web studio  CONTACT FORM
 // ==========================================
 
 if (contactForm && formStatus) {
