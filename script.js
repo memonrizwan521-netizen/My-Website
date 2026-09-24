@@ -150,7 +150,7 @@ if (contactForm && formStatus) {
 
     // Create WhatsApp message
     const whatsappMessage =
-      `Hello Nexora Web Studio!%0A%0A` +
+      `Hello Bright Web Studio!%0A%0A` +
       `*New Project Request*%0A%0A` +
       `Name: ${encodeURIComponent(name)}%0A` +
       `Email: ${encodeURIComponent(email)}%0A` +
